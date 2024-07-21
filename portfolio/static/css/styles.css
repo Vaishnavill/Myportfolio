@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+
+  .rounded-circle {
+    position: absolute;
+    margin-top: 0;
+    margin-left: 300px;
+  }
+
+  .mt-3 {
+    text-align: left;
+    margin-top: 0;
+  }
+
+  .out {
+    text-align: left;
+    margin-top: 0;
+  }
+
+  .mt-123 {
+    font-style: italic;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 0;
+  }
+  
+  .project {
+    margin-bottom: 1.5rem;
+  }
+  
+  .project h3 {
+    margin: 0;
+  }
+  
+  .project img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .project a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  @media (max-width: 600px) {
+    .navbar-nav {
+      text-align: center;
+    }
+  }
